@@ -1,0 +1,41 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Ignore Rider project files
+.idea/
+*.sln.iml
+
+# Ignore JetBrains Rider temp files
+.idea/
+*.sln.iml
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore other files
+*.log
+*.vs/
+
+
+*.workspace
